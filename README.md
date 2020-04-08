@@ -5,5 +5,5 @@ The way the coronavirus epidemic has spread across Europe is a sign that the Eur
 
 “Europe has taken concrete steps, but we need to show more solidarity. We can see that not all countries have made the same analysis of the situation.” - Charles Michel, president of the European Council
 
-![alt text][italy0407.png]
+![](italy0407.png)
 
